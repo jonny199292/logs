@@ -1,0 +1,24 @@
+Name
+PoE-1746687111-15540.dmp
+User
+
+Area
+
+Seed
+0
+Build
+poe2_production tags/4.2.0g 271419
+OSBits
+Windows 11 Build 26100 VRM 54/8192/16304
+CPUBrand
+AMD Ryzen 7 7800X3D 8-Core Processor           
+ExtraData
+{"Reason":"API Error"}
+Driver
+0.0.0.0
+GPUName
+AMD Radeon RX 9070 XT - LC27G5xT
+VRAM
+54/8192/16304
+Exception
+

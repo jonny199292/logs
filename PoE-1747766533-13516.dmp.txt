@@ -1,0 +1,24 @@
+Name
+PoE-1747766533-13516.dmp
+User
+
+Area
+MapSandspit_NoBoss
+Seed
+1529022093
+Build
+poe2_production tags/4.2.0h 272239
+OSBits
+Windows 11 Build 26100 HWS+ VRM 1751/8192/8192
+CPUBrand
+AMD Ryzen 7 7800X3D 8-Core Processor           
+ExtraData
+
+Driver
+32.0.21001.9024
+GPUName
+AMD Radeon RX 9070 XT - LC27G5xT
+VRAM
+1751/8192/8192
+Exception
+
